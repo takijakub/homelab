@@ -6,4 +6,4 @@ Now, a few years in, I'd like to open up what I've built - share the configs, do
 # Network diagram
 ---
 
-![Homelab Diagram](homelab/Homelab Network Diagram.svg)
+![Homelab Network Diagram](Homelab%20Network%20Diagram.svg)
